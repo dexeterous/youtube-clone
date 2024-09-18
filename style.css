@@ -101,3 +101,9 @@ body {
 .logo img {
     height: 22px;
 }
+
+.right-box {
+    display: flex;
+    justify-content: end;
+}
+
